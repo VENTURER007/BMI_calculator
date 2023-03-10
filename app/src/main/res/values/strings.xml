@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BMI</string>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="content">the new content</string>
 </resources>

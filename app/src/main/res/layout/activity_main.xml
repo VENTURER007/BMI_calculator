@@ -41,7 +41,11 @@
         android:id="@+id/textViewResult"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
         android:text="Your BMI will appear here"
+        android:textStyle="bold"
+        android:paddingTop="50dp"
+
         />
 
 </LinearLayout>
